@@ -2,7 +2,7 @@
 <p>Divya V<br/>
 Phone: (425) 879-2489 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;           Email:vkdivya1@gmail.com</p>
 
-<p style="background-color:lightgrey"><b>PROFESSIONAL SUMMARY</b></p>
+<pre><b>PROFESSIONAL SUMMARY</b></pre>
 
 <p>• Around 3+ years of experience in developing, maintaining and supporting web and mobile applications using Android, HTML, Oracle, PL/SQL and UNIX.<br/>
 • Expertise in all phases of software development life cycle including analysis, design, implementation, testing, deployment and maintenance of applications.</br>
@@ -16,23 +16,23 @@ Phone: (425) 879-2489 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ems
 • Adept in interacting with clients, ascertaining requirements on conference calls and developing and delivering results satisfactorily.</br>
 • Proficient interpersonal and decision-making skills, clear and effective communication.</p>
 
-<p style="background-color:lightgrey"><b>TECHNICAL SKILLS </b>
-</p>
+<pre><b>TECHNICAL SKILLS </b>
+</pre>
 
 <p>Languages &amp; Technologies    Android 5.0 lollipop, .Net Framework 4/3.5, C#, HTML<br>
 Database    SQL Server 2012, Oracle 10g <br>
 Tools   Android studio v1.1.0, Visual Studio 2008/2012, Firestone Ticketing Tool, Toad, Finacle Scripting Studio, IReport, SCM Source Maintenance Tool, Single Sign On. Source tree. JIRA<br>
 Operating System    Windows XP/7/8, Unix.</p></p>
 
-<p style="background-color:lightgrey"><b>EDUCATION </b>
-</p>
+<pre><b>EDUCATION </b>
+</pre>
 
 <p>• Bachelor of Electronics and Communication from Anna University.<br> 
 • Algorithms: Design and Analysis (Coursera by Stanford University).<br> 
 • Android Mobile application (Coursera by University of Maryland). </p>
 
-<p style="background-color:lightgrey"><b>PROFESSIONAL EXPERIENCE</b>       
-</p>
+<pre><b>PROFESSIONAL EXPERIENCE</b>       
+</pre>
 
 <p><b>Android Developer. Oct’15 to Dec’15</b><br>
 Developed a mobile application for real estate company, which helps buyers to get the details about a property, agents etc.<br>
@@ -51,8 +51,8 @@ A Complete Financial Banking solution which has around 200 clients across 84 cou
 • Customized the Loan module by creating a loan disbursement menu of ANZ China.<br>
 • Anchoring the weekly status calls between the users and Infosys.</p>
 
-<p style="background-color:lightgrey"><b>PERSONAL PROJECTS</b>       
-</p>
+<pre><b>PERSONAL PROJECTS</b>       
+</pre>
 
 <p><b>Android Developer</b><br>
 Developing a mobile application which helps NPO members to Register, login, and track their events.<br>
