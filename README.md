@@ -19,10 +19,10 @@ Phone: (425) 879-2489 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ems
 <pre><b>TECHNICAL SKILLS </b>
 </pre>
 
-<p>Languages &amp; Technologies    Android 5.0 lollipop, .Net Framework 4/3.5, C#, HTML<br>
-Database    SQL Server 2012, Oracle 10g <br>
-Tools   Android studio v1.1.0, Visual Studio 2008/2012, Firestone Ticketing Tool, Toad, Finacle Scripting Studio, IReport, SCM Source Maintenance Tool, Single Sign On. Source tree. JIRA<br>
-Operating System    Windows XP/7/8, Unix.</p></p>
+<p><b>Languages &amp; Technologies</b>    Android 5.0 lollipop, .Net Framework 4/3.5, C#, HTML<br>
+<b>Database</b>    SQL Server 2012, Oracle 10g <br>
+<b>Tools</b>   Android studio v1.1.0, Visual Studio 2008/2012, Firestone Ticketing Tool, Toad, Finacle Scripting Studio, IReport, SCM Source Maintenance Tool, Single Sign On. Source tree. JIRA<br>
+<b>Operating System</b>    Windows XP/7/8, Unix.</p></p>
 
 <pre><b>EDUCATION </b>
 </pre>
