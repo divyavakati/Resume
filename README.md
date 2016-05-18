@@ -4,17 +4,13 @@ Phone: (425) 879-2489 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ems
 
 <pre><b>PROFESSIONAL SUMMARY</b></pre>
 
-<p>• Around 3+ years of experience in developing, maintaining and supporting web and mobile applications using Android, HTML, Oracle, PL/SQL and UNIX.<br/>
-• Expertise in all phases of software development life cycle including analysis, design, implementation, testing, deployment and maintenance of applications.</br>
-• Strong analytical, problem solving &amp; organizational capabilities.</br>
-• Good knowledge in developing activities in android using, layouts, fragments and views.</br>
-• Excellent knowledge in android mobile development life cycle, android studio and plugins. </br>
-• Good knowledge in Finacle, a banking product from Infosys Technologies.</br>
-• Expertise in creation of reports using PL/SQL and finacle report designer (Jasper).</br>
-• Expertise in creating and running SQL queries on Oracle and MS SQL Server.</br>
-• Good knowledge C# and MS-SQL.</br>
-• Adept in interacting with clients, ascertaining requirements on conference calls and developing and delivering results satisfactorily.</br>
-• Proficient interpersonal and decision-making skills, clear and effective communication.</p>
+<p>• Around 3+ years of experience in developing and supporting web and mobile applications using Android, HTML, Oracle, PL/SQL, C# and UNIX.<br/>
+• Excellent knowledge on android development life cycle, android studio, layouts, fragments, views and plugins.</br>
+• Good Experience in developing SQL Queries, creating reports using PL/SQL and Finacle report designer (Jasper).</br>
+• Good knowledge on Finacle, a banking product from Infosys Technologies.</br>
+• Expertise in all phases of SDLC involving analysis, design, implementation, testing and maintenance of applications. </br>
+• Strong analytical and problem solving skills.</br>
+• Effective at communication, adept in interacting with clients, ascertaining requirements on conference calls and delivering results efficiently.</br>
 
 <pre><b>TECHNICAL SKILLS </b>
 </pre>
