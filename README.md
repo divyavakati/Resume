@@ -32,7 +32,7 @@ Phone: (425) 879-2489 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ems
 
 <p><b>Intern At Microsoft June'16 to Till Date</b></br>
 • Developed an internal portal for Leap(Industry explorers) program using JavaScript, HTML, CSS and SQL.</br>   
-• Processed Huge data using Scope scripts and created dashboards for analyzing monthly and daily events using LensExplorer and PowerBI.</br>    
+• Processed Huge data using Scope scripts and created dashboards for analyzing monthly and daily Azure incoming events using LensExplorer and PowerBI.</br>    
 • Working on implementing throttling feature in one of the Notification Jobs in Azure Resource Manager using C#.</br>
 <p><b>Android Developer. Oct’15 to Dec’15</b><br>
 Developed a mobile application for real estate company, which helps buyers to get the details about a property, agents etc.<br>
