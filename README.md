@@ -4,7 +4,7 @@ Phone: (425) 879-2489 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ems
 
 <pre><b>PROFESSIONAL SUMMARY</b></pre>
 
-<p>• Around 3+ years of experience in developing and supporting web and mobile applications using Android, HTML, Oracle, PL/SQL, C# and UNIX.<br/>
+<p>• Around 4+ years of experience in developing and supporting web and mobile applications using Android, HTML, Oracle, PL/SQL, C#, UNIX and data analytics using Scope, Cosmos, PowerBI and LensExplorer.</br>
 • Excellent knowledge on android development life cycle, android studio, layouts, fragments, views and plugins.</br>
 • Good Experience in developing SQL Queries, creating reports using PL/SQL and Finacle report designer (Jasper).</br>
 • Good knowledge on Finacle, a banking product from Infosys Technologies.</br>
@@ -15,9 +15,9 @@ Phone: (425) 879-2489 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ems
 <pre><b>TECHNICAL SKILLS </b>
 </pre>
 
-<p><b><i>Languages &amp; Technologies</i></b>    Android 5.0 lollipop, .Net Framework 4/3.5, C#, HTML<br>
+<p><b><i>Languages &amp; Technologies</i></b>    Android 5.0 lollipop, .Net Framework 4/3.5, C#, Scope, Cosmos, JavaScript, HTML<br>
 <b><i>Database</i></b>    SQL Server 2012, Oracle 10g <br>
-<b><i>Tools</i></b>   Android studio v1.1.0, Visual Studio 2008/2012, Firestone Ticketing Tool, Toad, Finacle Scripting Studio, IReport, SCM Source Maintenance Tool, Single Sign On. Source tree. JIRA<br>
+<b><i>Tools</i></b>   Android studio v1.1.0, Visual Studio 2008/2012, Firestone Ticketing Tool, Toad, Finacle Scripting Studio, PowerBI, LensExplorer, IReport, SCM Source Maintenance Tool, Single Sign On. Source tree. JIRA<br>
 <b><i>Operating System</i></b>    Windows XP/7/8, Unix.</p></p>
 
 <pre><b>EDUCATION </b>
@@ -30,6 +30,10 @@ Phone: (425) 879-2489 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ems
 <pre><b>PROFESSIONAL EXPERIENCE</b>       
 </pre>
 
+<p><b>Intern At Microsoft June'16 to Till Date</b></br>
+• Developed an internal portal for Leap(Industry explorers) program using JavaScript, HTML, CSS and SQL.</br>   
+• Processed Huge data using Scope scripts and created dashboards for analyzing monthly and daily events using LensExplorer and PowerBI.</br>    
+• Working on implementing throttling feature in one of the Notification Jobs in Azure Resource Manager using C#.</br>
 <p><b>Android Developer. Oct’15 to Dec’15</b><br>
 Developed a mobile application for real estate company, which helps buyers to get the details about a property, agents etc.<br>
 • Developed Agent screens using API 23: Android 6.0 (Marshmallow), ADT Plug-in and Android SDK, XML.<br>
